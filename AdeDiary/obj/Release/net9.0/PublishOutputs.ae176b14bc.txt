@@ -1,0 +1,7 @@
+C:\Users\Juliana Adeola Adisa\Desktop\SouthAfrica_2025\Cloud_Development-\AdeDiary\obj\Release\net9.0\PubTmp\Out\AdeDiary.exe
+C:\Users\Juliana Adeola Adisa\Desktop\SouthAfrica_2025\Cloud_Development-\AdeDiary\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Juliana Adeola Adisa\Desktop\SouthAfrica_2025\Cloud_Development-\AdeDiary\obj\Release\net9.0\PubTmp\Out\appsettings.json
+C:\Users\Juliana Adeola Adisa\Desktop\SouthAfrica_2025\Cloud_Development-\AdeDiary\obj\Release\net9.0\PubTmp\Out\AdeDiary.dll
+C:\Users\Juliana Adeola Adisa\Desktop\SouthAfrica_2025\Cloud_Development-\AdeDiary\obj\Release\net9.0\PubTmp\Out\AdeDiary.deps.json
+C:\Users\Juliana Adeola Adisa\Desktop\SouthAfrica_2025\Cloud_Development-\AdeDiary\obj\Release\net9.0\PubTmp\Out\AdeDiary.runtimeconfig.json
+C:\Users\Juliana Adeola Adisa\Desktop\SouthAfrica_2025\Cloud_Development-\AdeDiary\obj\Release\net9.0\PubTmp\Out\AdeDiary.pdb
